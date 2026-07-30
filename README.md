@@ -13,7 +13,6 @@ Acredito que a segurança eficiente é construída com a combinação de fundame
 - **Operações de Blue Team**: Triagem de alertas, análise de logs e gestão de SIEM (Wazuh).
 - **Segurança de Infraestrutura**: Administração de sistemas Linux/Windows e segurança de redes.
 - **Automação de Segurança**: Desenvolvimento de scripts em Python e integrações via APIs/Webhooks para acelerar a resposta a ameaças.
-- **Pesquisa em IA**: Exploração de LLMs para auxílio em debugging, documentação e análise de incidentes.
 
 ---
 
@@ -22,7 +21,6 @@ Acredito que a segurança eficiente é construída com a combinação de fundame
 - **Linguagens**: Python, Bash Script, C.
 - **Segurança**: Wazuh (SIEM/XDR), Wireshark, Splunk, conceitos de OWASP Top 10.
 - **Infraestrutura**: Docker, Administração Linux CLI, Cisco Networking (CCNA).
-- **Produtividade**: Cursor IDE, ChatGPT, Git/GitHub para versionamento.
 
 ---
 
